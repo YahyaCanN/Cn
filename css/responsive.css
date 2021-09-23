@@ -1,0 +1,657 @@
+@media screen and (min-width: 2560px) {
+  #section_back {
+    height: 1000px !important;
+  }
+  #corporate {
+    margin-top: 5%;
+    padding-top: 0%;
+  }
+  #card {
+    height: 40%;
+  }
+  #section_2 {
+    height: 120vh;
+  }
+  #ımpressum {
+    height: 80px !important;
+    line-height: 80px !important;
+  }
+  #ımpressum i {
+    height: 50px;
+  }
+  #kontak a {
+    line-height: 50px;
+    margin-top: -6%;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  #kontak a {
+    margin-top: -6%;
+  }
+}
+
+@media screen and (max-width: 1440px) {
+  #section_text {
+    height: 90%;
+  }
+  #section_image {
+    height: 900px;
+  }
+  #section_2 {
+    height: 175vh;
+  }
+  #card {
+    height: 70%;
+    margin-top: 40%;
+  }
+  #duo {
+    margin-top: 20px;
+  }
+  #footer h3::before {
+    content: "";
+    width: 10%;
+    height: 2px;
+    display: block;
+    background-color: #f0c17d;
+    margin-right: 5%;
+    margin-top: 10px;
+  }
+  #integrate p {
+    padding-top: 5%;
+  }
+  #ımpressum p {
+    font-size: 0.8rem;
+  }
+  .text_upper h1 {
+    width: 70%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  #section_image {
+    height: 700px;
+  }
+  #section_2 {
+    height: 150vh !important;
+  }
+  #card {
+    height: 20%;
+  }
+  #card .card-title,
+  #card .card-text {
+    font-size: 0.6rem;
+  }
+  #section_back {
+    height: 800px !important ;
+  }
+  #kontak svg {
+    width: 15px;
+    height: 15px;
+  }
+  #kontak a {
+    margin-top: -11%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #section_image {
+    height: 500px;
+  }
+  #section_back {
+    height: 1000px !important ;
+  }
+  #section_2 {
+    height: 75vh !important;
+  }
+  #integrate p {
+    padding-top: 15%;
+    font-size: 0.7rem;
+  }
+  #logo svg {
+    width: 70%;
+    height: 70%;
+  }
+  #logo {
+    padding-top: 20px;
+  }
+  #menu_line {
+    position: absolute;
+    left: 4%;
+    margin-top: 3%;
+  }
+  .text_upper {
+    top: 200px;
+  }
+  .text_upper h1 {
+    width: 100%;
+    font-size: 5vw;
+  }
+  .text_upper p {
+    width: 100%;
+    font-size: 3vw;
+  }
+  .content .col:nth-child(1) p {
+    width: 50%;
+    font-size: 2vw;
+    line-height: 1.32;
+  }
+  .row font {
+    width: 40% !important;
+    font-size: 0.9rem !important;
+    margin-top: -8%;
+  }
+  .content .row:nth-child(3) {
+    width: 40%;
+    height: 30px;
+    font-size: 1vw;
+  }
+  .text_right {
+    width: 100%;
+    padding-top: 5%;
+  }
+  .text_right h5 {
+    font-size: 2.3vw;
+  }
+  .text_right p {
+    font-size: 2vw;
+  }
+  #corporate {
+    width: 60%;
+    margin-top: -15%;
+  }
+  #corporate h3 {
+    font-size: 3.5vw;
+  }
+  #corporate p {
+    width: 90%;
+    font-size: 2vw;
+  }
+  #card {
+    height: 300px;
+    padding-bottom: 20px;
+    margin-top: 120%;
+  }
+  .row font {
+    width: 60%;
+    font-size: 0.6rem;
+  }
+  #section_2 {
+    height: 150vh !important;
+  }
+  #section_2text {
+    margin-top: -15%;
+    height: 340px !important;
+  }
+  #section_2text p {
+    font-size: 1.9vw;
+  }
+  #text_logoicon {
+    width: 80%;
+    height: 70px;
+    margin-top: -5%;
+  }
+  #text_logo img {
+    width: 20%;
+    margin-right: 20px;
+  }
+  #arrow_icon svg:nth-child(1) {
+    width: 40px;
+    height: 40px;
+  }
+  #arrow_icon svg:nth-child(2) {
+    width: 40px;
+    height: 40px;
+  }
+  #duo {
+    margin-top: 80%;
+  }
+  #kontak a {
+    margin-top: -16%;
+  }
+  #footer h3::before {
+    margin-top: 5px;
+  }
+  /* footer */
+  .footer_unter,
+  .footer_corporate {
+    display: none;
+  }
+
+  .footer_kontak,
+  .footer_folge {
+    margin: auto;
+  }
+  .footer_kontak h3,
+  .footer_folge h3 {
+    font-size: 2.5vw !important;
+  }
+  .footer_kontak a {
+    font-size: 15px !important;
+    line-height: 300% !important;
+    padding-top: 5%;
+  }
+  .footer_folge svg {
+    width: 35px;
+    height: 25px;
+  }
+  #footer h3::before {
+    content: "";
+    margin-top: 10px;
+  }
+}
+@media screen and (max-width: 425px) {
+  .line1 {
+    width: 20px;
+    height: 2px;
+    background-color: white;
+    margin-top: 10%;
+  }
+  .line2 {
+    margin-top: 10%;
+    width: 35px;
+    height: 2px;
+    background-color: white;
+    margin-left: -15%;
+  }
+  #menu_line {
+    position: absolute;
+    left: 1%;
+    margin-top: 3%;
+  }
+  #logo svg {
+    width: 60%;
+    height: 60%;
+    margin-top: -3%;
+    margin-left: -10%;
+  }
+  #integrate p {
+    margin-left: -100%;
+    padding-top: 50%;
+    font-size: 0.3rem;
+  }
+  #ımpressum {
+    height: 50px;
+  }
+  #ımpressum p {
+    font-size: 0.5rem;
+    line-height: 50px;
+    padding-left: 5%;
+  }
+  #ımpressum i {
+    height: 35px;
+    line-height: 60px;
+  }
+  .text_upper h1 {
+    width: 100%;
+    font-size: 5vw;
+  }
+  .text_upper p {
+    width: 150%;
+    font-size: 4vw;
+  }
+  .mouse_icon svg {
+    width: 40px;
+    height: 40px;
+    margin-top: 5%;
+    margin-left: -5%;
+  }
+  .content .col:nth-child(1) p {
+    width: 80%;
+    font-size: 3.5vw;
+    line-height: 1.32;
+  }
+  .row font {
+    width: 60%;
+    font-size: 0.6rem;
+    margin-top: -5%;
+  }
+  .content .row:nth-child(3) {
+    width: 60%;
+    height: 30px;
+    font-size: 1.5vw;
+  }
+  .text_right {
+    width: 80%;
+    font-size: 2.5vw;
+    padding-top: 5%;
+    margin-left: 10%;
+  }
+  .text_right h5 {
+    font-size: 3.5vw;
+  }
+  .text_right p {
+    font-size: 3vw;
+  }
+  .text_right span {
+    left: -12%;
+  }
+  #corporate {
+    width: 100%;
+    margin-top: -10%;
+  }
+  #corporate h3 {
+    font-size: 3.5vw;
+  }
+  #corporate p {
+    width: 100%;
+    font-size: 3vw;
+  }
+  #duo {
+    margin-top: 100%;
+    z-index: 101;
+  }
+  #section_2 {
+    height: 100vh !important;
+  }
+  #section_text {
+    height: 120%;
+  }
+  #section_2text {
+    height: 190px !important;
+  }
+  #section_2text h3 {
+    font-size: 4vw;
+  }
+  #card {
+    margin-top: 90%;
+    height: 400px;
+  }
+  #card h4 {
+    margin-top: 50%;
+  }
+  #section_back {
+    height: 300px !important;
+  }
+  #footer_logo svg {
+    width: 150px;
+    height: 200px;
+  }
+  #footer_logo {
+    text-align: center;
+    margin-top: -10%;
+    margin-bottom: -5%;
+  }
+  #footer a {
+    padding-left: 15%;
+    font-size: 0.8vw;
+    line-height: 10px;
+  }
+  #kontak svg {
+    margin-right: 5%;
+    width: 10px;
+    height: 10px;
+  }
+  #kontak a {
+    margin-top: -20%;
+    margin-left: 3px;
+  }
+  #footer h3::before {
+    margin-top: 3px;
+  }
+  #copyright {
+    font-size: 0.3rem;
+  }
+  #folge svg {
+    width: 15px;
+    height: 15px;
+  }
+  #section_2text p {
+    font-size: 2vw;
+    padding-top: 2%;
+  }
+
+  #text_logoicon {
+    width: 80%;
+    height: 70px;
+    margin-top: -15%;
+  }
+
+  #text_logo img {
+    width: 20%;
+    margin-right: 20px;
+  }
+
+  #arrow_icon svg:nth-child(1) {
+    width: 30px;
+    height: 30px;
+  }
+
+  #arrow_icon svg:nth-child(2) {
+    width: 30px;
+    height: 30px;
+  }
+  /* footer */
+  .footer_kontak,
+  .footer_folge {
+    margin: auto;
+  }
+  #kontak svg {
+    width: 20px;
+    height: 20px;
+  }
+  .footer_kontak h3,
+  .footer_folge h3 {
+    font-size: 3.5vw !important;
+  }
+  .footer_kontak a {
+    font-size: 15px !important;
+    line-height: 300% !important;
+    padding-top: 10%;
+  }
+  .footer_folge {
+    margin-top: -50% !important;
+  }
+  .footer_folge svg {
+    width: 30px !important;
+    height: 30px !important;
+  }
+
+  #footer h3::before {
+    content: "";
+    margin-top: 7px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  #menu_line {
+    margin-top: 4%;
+  }
+  #logo svg {
+    width: 70%;
+    height: 70%;
+    margin-left: -5%;
+    margin-top: -5%;
+  }
+  #integrate p {
+    margin-left: -80%;
+    padding-top: 35%;
+    font-size: 0.5rem;
+  }
+  #ımpressum {
+    width: 100px;
+  }
+  #ımpressum p {
+    padding-right: 5%;
+  }
+  #ımpressum i {
+    width: 15px !important;
+  }
+  .text_upper h1 {
+    width: 100%;
+    font-size: 5vw;
+  }
+  .text_upper p {
+    width: 150%;
+    font-size: 4vw;
+  }
+  .content .col:nth-child(1) p {
+    width: 80%;
+    font-size: 3.5vw;
+    line-height: 1.32;
+  }
+  .row font {
+    width: 60%;
+    font-size: 0.6rem;
+    margin-top: -5%;
+  }
+  .content .row:nth-child(3) {
+    width: 60%;
+    height: 30px;
+    font-size: 1.5vw;
+  }
+  .text_right {
+    width: 80%;
+    font-size: 2.5vw;
+    padding-top: 5%;
+  }
+  .text_right h5 {
+    font-size: 3.5vw;
+  }
+  .text_right p {
+    font-size: 3vw;
+  }
+  .text_right span {
+    left: -12%;
+  }
+  #corporate {
+    width: 100%;
+    margin-top: -10%;
+  }
+  #corporate h3 {
+    font-size: 3.5vw;
+  }
+  #corporate p {
+    width: 100%;
+    font-size: 3vw;
+  }
+  #duo {
+    margin-top: 75%;
+    z-index: 101;
+  }
+  #section_text {
+    height: 120%;
+  }
+  #section_2text h3 {
+    font-size: 4vw;
+  }
+  #card {
+    margin-top: 90%;
+    height: 300px;
+  }
+  #card h4 {
+    margin-top: 30%;
+  }
+  #section_back {
+    height: 300px !important;
+  }
+  #section_2 {
+    height: 80vh !important;
+  }
+  #footer_logo svg {
+    width: 150px;
+    height: 200px;
+  }
+  #footer_logo {
+    text-align: center;
+    margin-top: -10%;
+    margin-bottom: -5%;
+  }
+  #footer a {
+    padding-left: 15%;
+    font-size: 0.8vw;
+    line-height: 10px;
+  }
+  #kontak svg {
+    margin-right: 5%;
+    width: 10px;
+    height: 10px;
+  }
+  #kontak a {
+    margin-top: -20%;
+    margin-left: 3px;
+  }
+  #footer h3::before {
+    margin-top: 3px;
+  }
+  #copyright {
+    font-size: 0.3rem;
+  }
+  #folge svg {
+    width: 15px;
+    height: 15px;
+  }
+
+  #section_2image {
+    padding-top: 5%;
+  }
+  #section_2text {
+    height: 200px !important;
+  }
+
+  #text_logoicon {
+    width: 80%;
+    height: 70px;
+    margin-top: -15%;
+  }
+
+  #text_logo img {
+    width: 20%;
+    margin-right: 20px;
+  }
+
+  /* footer*/
+
+  #kontak svg {
+    width: 20px;
+    height: 20px;
+  }
+  .footer_kontak h3,
+  .footer_folge h3 {
+    font-size: 4vw !important;
+  }
+  .footer_kontak a {
+    font-size: 15px !important;
+    line-height: 300% !important;
+    padding-top: 10%;
+  }
+  .footer_folge {
+    margin-top: -50% !important;
+  }
+  .footer_folge svg {
+    width: 30px !important;
+    height: 30px !important;
+  }
+
+  #footer h3::before {
+    content: "";
+    margin-top: 7px;
+  }
+}
+@media screen and (max-width: 320px) {
+  #kontak svg {
+    width: 15px;
+    height: 15px;
+  }
+  .footer_kontak h3,
+  .footer_folge h3 {
+    font-size: 4vw !important;
+  }
+  .footer_kontak a {
+    font-size: 10px !important;
+    line-height: 300% !important;
+    padding-top: 10%;
+  }
+  .footer_folge {
+    margin-top: -50% !important;
+  }
+  .footer_folge svg {
+    width: 20px !important;
+    height: 20px !important;
+  }
+
+  #footer h3::before {
+    content: "";
+    margin-top: 7px;
+  }
+}
